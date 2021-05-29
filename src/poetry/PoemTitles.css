@@ -1,0 +1,23 @@
+.wordline-poem-search-label, .poemcount-label {
+    color:navajowhite;
+    font-size: 16px;
+}
+
+.poem-titles {
+    font-size: 16px;
+    color:navajowhite;
+}
+
+.title-link {
+    color:palegoldenrod;
+    text-decoration: none;
+}
+
+.title-link:hover {
+    color: rgb(63, 8, 8);
+}
+
+.author, .linecount {
+    color:navajowhite;
+    font-size: 16px;
+}

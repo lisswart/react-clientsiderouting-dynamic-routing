@@ -1,0 +1,17 @@
+.definition-div {
+    font-size: 15px;
+    color: cornsilk;
+    padding: 2em;
+    margin: 2em;
+    background-color: rgba(173, 104, 104, 0.144);
+    border: gold solid 1px;
+}
+
+.definition-list::marker {
+    list-style-position: inside;
+    list-style-type: disc;
+}
+
+.not-available {
+    color: red;
+}

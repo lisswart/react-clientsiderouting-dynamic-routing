@@ -1,0 +1,12 @@
+.definition-card {
+    color: cornsilk;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    font-size: 16px;
+}
+
+.definition-list {
+    margin-left: 2em;
+    margin-right: 2em;
+}

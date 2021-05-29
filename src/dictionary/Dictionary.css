@@ -1,0 +1,19 @@
+.homepage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dictionary-heading {
+    color:navajowhite;
+}
+
+.dictionary-image {
+    margin-bottom: 3em;
+}
+
+.definition-container {
+    display: flex;
+    justify-content: flex-start;
+}

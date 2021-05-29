@@ -1,0 +1,25 @@
+nav {
+    font-size: 2rem;
+    font-weight: bold;
+    border: 2px solid gold;
+    padding: 2em;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nav-link {
+    margin: 0 1em 0 1em;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 20px;
+    color: moccasin;
+}
+
+nav a.active {
+    color: rgb(248, 183, 3);
+}
